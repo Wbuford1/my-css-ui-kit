@@ -1,0 +1,18 @@
+.btn {
+  padding: var(--spacing-sm) var(--spacing-md);
+  border-radius: var(--border-radius);
+  font-family: var(--font-family-sans);
+  font-size: var(--font-size-base);
+  cursor: pointer;
+  border: none;
+}
+
+.btn-primary {
+  background-color: var(--color-primary);
+  color: var(--color-background);
+}
+
+.btn-secondary {
+  background-color: var(--color-secondary);
+  color: var(--color-background);
+}

@@ -1,0 +1,6 @@
+.m-1 { margin: var(--spacing-xs); }
+.m-2 { margin: var(--spacing-sm); }
+.p-1 { padding: var(--spacing-xs); }
+.p-2 { padding: var(--spacing-sm); }
+.flex { display: flex; }
+.flex-center { display: flex; justify-content: center; align-items: center; }
